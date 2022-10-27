@@ -4,5 +4,8 @@ public class Main {
         System.out.println("modificando el main");
         
         int num = 10;
+
+        // Nuevo desarrollo
+        int modificado =30;
     }
 }
